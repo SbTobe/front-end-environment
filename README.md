@@ -30,11 +30,11 @@ npm run build
 
 ## to install and run in command line
 
-npm init -y
-npm i -D webpack webpack-cli
-npm i -D sass style-loader css-loader sass-loader
-npm audit fix
-npm i -D html-webpack-plugin
-npn run dev //to install webserver
-npm i -D babel-loader @babel/core @babel/preset-env
-npm i axios //API thingy I think
+npm init -y  
+npm i -D webpack webpack-cli  
+npm i -D sass style-loader css-loader sass-loader  
+npm audit fix  
+npm i -D html-webpack-plugin  
+npn run dev //to install webserver  
+npm i -D babel-loader @babel/core @babel/preset-env  
+npm i axios //API thingy I think  
