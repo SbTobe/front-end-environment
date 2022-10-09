@@ -1,7 +1,7 @@
 # front-end-environment
 Front end environment  
 original repo taken from https://github.com/bradtraversy/webpack-starter  
-cleaned this up for personal use to have an environment to refer too without any actual code.   
+cleaned this up for personal use to have an environment to refer to without any actual code.   
 # Webpack App Starter
 
 Frontend environment for building JavaScript applications
