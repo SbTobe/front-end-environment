@@ -29,10 +29,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bradtraversy/webpack-starter.git"
-  },
-  "bugs": {
-    "url": "https://github.com/bradtraversy/webpack-starter/issues"
-  },
-  "homepage": "https://github.com/bradtraversy/webpack-starter#readme"
+    "url": "git+https://github.com/SbTobe/front-end-environment"
+  }
+ 
 }
